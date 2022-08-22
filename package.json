@@ -1,6 +1,6 @@
 {
   "name": "@alexyegupov/slowerbutton",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "dependencies": {
     "react": "^18.2.0"
