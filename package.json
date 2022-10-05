@@ -5,7 +5,7 @@
   "exports": {
     ".": "./index.js",
     "./r1": "./r1.js"
-  }
+  },
   "dependencies": {
     "react": "^18.2.0"
   }
