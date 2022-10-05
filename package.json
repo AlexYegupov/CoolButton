@@ -1,10 +1,11 @@
 {
   "name": "@alexyegupov/slowerbutton",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "exports": {
     ".": "./index.js",
-    "./r1": "./r1.js"
+    "./r1": "./r1.js",
+    "./package.json": "./package.json"
   },
   "dependencies": {
     "react": "^18.2.0"
